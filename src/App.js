@@ -1,9 +1,10 @@
 import './App.css';
+import HomePage from './Components/Homepage/HomePage';
 
 function App() {
   return (
     <>
-    Trying to build e amar ujala paper site in react js
+    <HomePage />
     </>
   );
 }

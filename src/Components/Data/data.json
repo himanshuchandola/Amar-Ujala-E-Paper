@@ -1,0 +1,1199 @@
+{
+  "agra-city": {
+    "title": "Agra city",
+    "group_code": "ag",
+    "edition_code": "ac",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": "Y",
+    "slug": "agra-city"
+  },
+  "agra-dehat": {
+    "title": "Agra dehat",
+    "group_code": "ag",
+    "edition_code": "ad",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "agra-dehat"
+  },
+  "aligarh-city": {
+    "title": "Aligarh city",
+    "group_code": "al",
+    "edition_code": "ct",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "aligarh-city"
+  },
+  "aligarh-dehat": {
+    "title": "Aligarh dehat",
+    "group_code": "al",
+    "edition_code": "dt",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "aligarh-dehat"
+  },
+  "almora": {
+    "title": "Almora",
+    "group_code": "nt",
+    "edition_code": "al",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "almora"
+  },
+  "ambala": {
+    "title": "Ambala",
+    "group_code": "hr",
+    "edition_code": "am",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "ambala"
+  },
+  "ambedkar-nagar": {
+    "title": "Ambedkar nagar",
+    "group_code": "lk",
+    "edition_code": "an",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "ambedkar-nagar"
+  },
+  "jpnagar": {
+    "title": "Amroha",
+    "group_code": "md",
+    "edition_code": "jp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jpnagar"
+  },
+  "auraiya": {
+    "title": "Auraiya",
+    "group_code": "kp",
+    "edition_code": "au",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "auraiya"
+  },
+  "faizabad": {
+    "title": "Ayodhya",
+    "group_code": "lk",
+    "edition_code": "fz",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "faizabad"
+  },
+  "azamgarh": {
+    "title": "Azamgarh",
+    "group_code": "vn",
+    "edition_code": "az",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "azamgarh"
+  },
+  "badaun": {
+    "title": "Badaun",
+    "group_code": "bl",
+    "edition_code": "bn",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "badaun"
+  },
+  "baghpat": {
+    "title": "Baghpat",
+    "group_code": "mt",
+    "edition_code": "bg",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "baghpat"
+  },
+  "bahraich": {
+    "title": "Bahraich",
+    "group_code": "lk",
+    "edition_code": "bh",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "bahraich"
+  },
+  "balia": {
+    "title": "Ballia",
+    "group_code": "vn",
+    "edition_code": "bl",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "balia"
+  },
+  "banda": {
+    "title": "Banda",
+    "group_code": "kp",
+    "edition_code": "bd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "banda"
+  },
+  "barabanki": {
+    "title": "Barabanki",
+    "group_code": "lk",
+    "edition_code": "bb",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "barabanki"
+  },
+  "bareilly-city": {
+    "title": "Bareilly city",
+    "group_code": "bl",
+    "edition_code": "cb",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "bareilly-city"
+  },
+  "bareilly-dehat": {
+    "title": "Bareilly dehat",
+    "group_code": "bl",
+    "edition_code": "db",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "bareilly-dehat"
+  },
+  "basti": {
+    "title": "Basti",
+    "group_code": "gk",
+    "edition_code": "bs",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "basti"
+  },
+  "bhadohi": {
+    "title": "Bhadohi",
+    "group_code": "vn",
+    "edition_code": "bo",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "bhadohi"
+  },
+  "bhiwani": {
+    "title": "Bhiwani",
+    "group_code": "rt",
+    "edition_code": "bw",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "bhiwani"
+  },
+  "bijnor": {
+    "title": "Bijnor",
+    "group_code": "mt",
+    "edition_code": "bj",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "bijnor"
+  },
+  "bilaspur": {
+    "title": "Bilaspur",
+    "group_code": "ds",
+    "edition_code": "bp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "bilaspur"
+  },
+  "bulandsahar": {
+    "title": "Bulandsahar",
+    "group_code": "dl",
+    "edition_code": "bu",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "bulandsahar"
+  },
+  "chamba": {
+    "title": "Chamba",
+    "group_code": "ds",
+    "edition_code": "ch",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "chamba"
+  },
+  "chandauli": {
+    "title": "Chandauli",
+    "group_code": "vn",
+    "edition_code": "cd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "chandauli"
+  },
+  "chandigarh-city": {
+    "title": "Chandigarh city",
+    "group_code": "ch",
+    "edition_code": "cc",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "chandigarh-city"
+  },
+  "charkhi-dadri": {
+    "title": "Charkhi Dadri",
+    "group_code": "rt",
+    "edition_code": "ci",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "charkhi-dadri"
+  },
+  "dehradun-city": {
+    "title": "Dehradun city",
+    "group_code": "dn",
+    "edition_code": "dc",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": "Y",
+    "slug": "dehradun-city"
+  },
+  "delhi-city": {
+    "title": "Delhi",
+    "group_code": "dl",
+    "edition_code": "dl",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "delhi-city"
+  },
+  "deoria": {
+    "title": "Deoria",
+    "group_code": "gk",
+    "edition_code": "do",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "deoria"
+  },
+  "etah": {
+    "title": "Etah",
+    "group_code": "ag",
+    "edition_code": "et",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "etah"
+  },
+  "etawa": {
+    "title": "Etawa",
+    "group_code": "kp",
+    "edition_code": "ew",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "etawa"
+  },
+  "faridabad": {
+    "title": "Faridabad",
+    "group_code": "dl",
+    "edition_code": "fb",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "faridabad"
+  },
+  "farrukhabad": {
+    "title": "Farrukhabad",
+    "group_code": "kp",
+    "edition_code": "fd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "farrukhabad"
+  },
+  "fatehabad": {
+    "title": "Fatehabad",
+    "group_code": "rt",
+    "edition_code": "ft",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "fatehabad"
+  },
+  "fatehpur": {
+    "title": "Fatehpur",
+    "group_code": "kp",
+    "edition_code": "fp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "fatehpur"
+  },
+  "firozabad": {
+    "title": "Firozabad",
+    "group_code": "ag",
+    "edition_code": "fr",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "firozabad"
+  },
+  "garhwal": {
+    "title": "Garhwal",
+    "group_code": "dn",
+    "edition_code": "gh",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "garhwal"
+  },
+  "ghaziabad": {
+    "title": "Ghaziabad",
+    "group_code": "dl",
+    "edition_code": "ga",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "ghaziabad"
+  },
+  "trans-hindon-area": {
+    "title": "Ghaziabad-Trans Hindon Area",
+    "group_code": "dl",
+    "edition_code": "th",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "trans-hindon-area"
+  },
+  "ghazipur": {
+    "title": "Ghazipur",
+    "group_code": "vn",
+    "edition_code": "gz",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "ghazipur"
+  },
+  "gonda-balrampur": {
+    "title": "Gonda-balrampur",
+    "group_code": "lk",
+    "edition_code": "gb",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "gonda-balrampur"
+  },
+  "gorakhpur-city": {
+    "title": "Gorakhpur city",
+    "group_code": "gk",
+    "edition_code": "gc",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "gorakhpur-city"
+  },
+  "gorakhpur-dehat": {
+    "title": "Gorakhpur dehat",
+    "group_code": "gk",
+    "edition_code": "gd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "gorakhpur-dehat"
+  },
+  "greater-noida": {
+    "title": "Greater noida",
+    "group_code": "dl",
+    "edition_code": "gn",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "greater-noida"
+  },
+  "gurgaon": {
+    "title": "Gurugram",
+    "group_code": "dl",
+    "edition_code": "gr",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "gurgaon"
+  },
+  "hamirpur-dharamshala": {
+    "title": "Hamirpur (Himachal)",
+    "group_code": "ds",
+    "edition_code": "ha",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "hamirpur-dharamshala"
+  },
+  "hamirpur": {
+    "title": "Hamirpur (UP)",
+    "group_code": "kp",
+    "edition_code": "hm",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "hamirpur"
+  },
+  "hapur": {
+    "title": "Hapur",
+    "group_code": "dl",
+    "edition_code": "hp",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "hapur"
+  },
+  "hardoi": {
+    "title": "Hardoi",
+    "group_code": "kp",
+    "edition_code": "ho",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "hardoi"
+  },
+  "haridwar": {
+    "title": "Haridwar",
+    "group_code": "dn",
+    "edition_code": "hd",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "haridwar"
+  },
+  "hathras": {
+    "title": "Hathras",
+    "group_code": "al",
+    "edition_code": "ht",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "hathras"
+  },
+  "hisar": {
+    "title": "Hisar",
+    "group_code": "rt",
+    "edition_code": "hs",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "hisar"
+  },
+  "jalandhar": {
+    "title": "Jalandhar",
+    "group_code": "pb",
+    "edition_code": "jl",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jalandhar"
+  },
+  "jalaun": {
+    "title": "Jalaun",
+    "group_code": "kp",
+    "edition_code": "ja",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jalaun"
+  },
+  "jammu-city": {
+    "title": "Jammu city",
+    "group_code": "jm",
+    "edition_code": "cj",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jammu-city"
+  },
+  "jammu-dehat": {
+    "title": "Jammu dehat",
+    "group_code": "jm",
+    "edition_code": "dj",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jammu-dehat"
+  },
+  "jounpur": {
+    "title": "Jaunpur",
+    "group_code": "vn",
+    "edition_code": "jr",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "jounpur"
+  },
+  "jhajjar": {
+    "title": "Jhajjar",
+    "group_code": "rt",
+    "edition_code": "jj",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "jhajjar"
+  },
+  "jhansi-city": {
+    "title": "Jhansi city",
+    "group_code": "jh",
+    "edition_code": "jy",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jhansi-city"
+  },
+  "jhansi-dehat": {
+    "title": "Jhansi dehat",
+    "group_code": "jh",
+    "edition_code": "jd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "jhansi-dehat"
+  },
+  "jind": {
+    "title": "Jind",
+    "group_code": "rt",
+    "edition_code": "jn",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "jind"
+  },
+  "kaithal": {
+    "title": "Kaithal",
+    "group_code": "hr",
+    "edition_code": "kt",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "kaithal"
+  },
+  "kangra": {
+    "title": "Kangra",
+    "group_code": "ds",
+    "edition_code": "kg",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kangra"
+  },
+  "kannauj": {
+    "title": "Kannauj",
+    "group_code": "kp",
+    "edition_code": "kj",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kannauj"
+  },
+  "kanpur-ghatampur": {
+    "title": "Kanpur Ghatampur",
+    "group_code": "kp",
+    "edition_code": "gm",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "kanpur-ghatampur"
+  },
+  "kanpur-city": {
+    "title": "Kanpur city",
+    "group_code": "kp",
+    "edition_code": "kc",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": "Y",
+    "slug": "kanpur-city"
+  },
+  "kanpur-dehat": {
+    "title": "Kanpur dehat",
+    "group_code": "kp",
+    "edition_code": "kd",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kanpur-dehat"
+  },
+  "karnal": {
+    "title": "Karnal",
+    "group_code": "hr",
+    "edition_code": "kn",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "karnal"
+  },
+  "kathua": {
+    "title": "Kathua",
+    "group_code": "jm",
+    "edition_code": "ku",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kathua"
+  },
+  "kaushambi": {
+    "title": "Kaushambi",
+    "group_code": "ab",
+    "edition_code": "kh",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "kaushambi"
+  },
+  "kotdwar": {
+    "title": "Kotdwar",
+    "group_code": "dn",
+    "edition_code": "kw",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kotdwar"
+  },
+  "kullu": {
+    "title": "Kullu",
+    "group_code": "ds",
+    "edition_code": "kl",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kullu"
+  },
+  "kurukshetra": {
+    "title": "Kurukshetra",
+    "group_code": "hr",
+    "edition_code": "kk",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "kurukshetra"
+  },
+  "kushinagar": {
+    "title": "Kushinagar",
+    "group_code": "gk",
+    "edition_code": "ks",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "kushinagar"
+  },
+  "khiri": {
+    "title": "Lakhimpur Kheri",
+    "group_code": "bl",
+    "edition_code": "lk",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "khiri"
+  },
+  "lalitpur": {
+    "title": "Lalitpur",
+    "group_code": "jh",
+    "edition_code": "lt",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "lalitpur"
+  },
+  "lucknow-city": {
+    "title": "Lucknow city",
+    "group_code": "lk",
+    "edition_code": "lc",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": "Y",
+    "slug": "lucknow-city"
+  },
+  "mainpuri": {
+    "title": "Mainpuri",
+    "group_code": "ag",
+    "edition_code": "mp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mainpuri"
+  },
+  "mandi": {
+    "title": "Mandi",
+    "group_code": "ds",
+    "edition_code": "ma",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mandi"
+  },
+  "mathura": {
+    "title": "Mathura",
+    "group_code": "ag",
+    "edition_code": "mt",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mathura"
+  },
+  "mau": {
+    "title": "Mau",
+    "group_code": "vn",
+    "edition_code": "mu",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mau"
+  },
+  "meerut-city": {
+    "title": "Meerut city",
+    "group_code": "mt",
+    "edition_code": "cm",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "meerut-city"
+  },
+  "meerut-dehat": {
+    "title": "Meerut dehat",
+    "group_code": "mt",
+    "edition_code": "dm",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "meerut-dehat"
+  },
+  "mharajgunj": {
+    "title": "Mharajgunj",
+    "group_code": "gk",
+    "edition_code": "mh",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mharajgunj"
+  },
+  "mirzapur": {
+    "title": "Mirzapur",
+    "group_code": "vn",
+    "edition_code": "mz",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "mirzapur"
+  },
+  "mohali": {
+    "title": "Mohali",
+    "group_code": "ch",
+    "edition_code": "ml",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "mohali"
+  },
+  "moradabad-city": {
+    "title": "Moradabad city",
+    "group_code": "md",
+    "edition_code": "mc",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "moradabad-city"
+  },
+  "moradabad-dehat": {
+    "title": "Moradabad dehat",
+    "group_code": "md",
+    "edition_code": "dh",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "moradabad-dehat"
+  },
+  "muzaffarnagar": {
+    "title": "Muzaffarnagar",
+    "group_code": "mt",
+    "edition_code": "mf",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "muzaffarnagar"
+  },
+  "haldwani": {
+    "title": "Nainital",
+    "group_code": "nt",
+    "edition_code": "hl",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "haldwani"
+  },
+  "narnaul": {
+    "title": "Narnaul",
+    "group_code": "rt",
+    "edition_code": "nn",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "narnaul"
+  },
+  "noida": {
+    "title": "Noida",
+    "group_code": "dl",
+    "edition_code": "nd",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "noida"
+  },
+  "panchkula": {
+    "title": "Panchkula",
+    "group_code": "ch",
+    "edition_code": "pk",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "panchkula"
+  },
+  "panipat": {
+    "title": "Panipat",
+    "group_code": "hr",
+    "edition_code": "pn",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "panipat"
+  },
+  "pilibhit": {
+    "title": "Pilibhit",
+    "group_code": "bl",
+    "edition_code": "pb",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "pilibhit"
+  },
+  "pithoragarh": {
+    "title": "Pithoragarh",
+    "group_code": "nt",
+    "edition_code": "pt",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "pithoragarh"
+  },
+  "pratapgarh": {
+    "title": "Pratapgarh",
+    "group_code": "ab",
+    "edition_code": "pg",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "pratapgarh"
+  },
+  "allahabad-city": {
+    "title": "Prayagraj City",
+    "group_code": "ab",
+    "edition_code": "ca",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "allahabad-city"
+  },
+  "gangapar": {
+    "title": "Prayagraj Gangapar",
+    "group_code": "ab",
+    "edition_code": "gp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "gangapar"
+  },
+  "prayagraj-naini": {
+    "title": "Prayagraj Naini",
+    "group_code": "ab",
+    "edition_code": "na",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "prayagraj-naini"
+  },
+  "raebareli": {
+    "title": "Raebareli",
+    "group_code": "lk",
+    "edition_code": "rb",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "raebareli"
+  },
+  "rajasthan": {
+    "title": "Rajasthan",
+    "group_code": "ag",
+    "edition_code": "rj",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "rajasthan"
+  },
+  "rampur-dharamshala": {
+    "title": "Rampur (Himachal)",
+    "group_code": "ds",
+    "edition_code": "rm",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "rampur-dharamshala"
+  },
+  "rampur": {
+    "title": "Rampur (UP)",
+    "group_code": "md",
+    "edition_code": "rp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "rampur"
+  },
+  "rewari": {
+    "title": "Rewari",
+    "group_code": "rt",
+    "edition_code": "rw",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "rewari"
+  },
+  "rishikesh": {
+    "title": "Rishikesh",
+    "group_code": "dn",
+    "edition_code": "rk",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "rishikesh"
+  },
+  "rohtak-city": {
+    "title": "Rohtak",
+    "group_code": "rt",
+    "edition_code": "rt",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "rohtak-city"
+  },
+  "roorkee": {
+    "title": "Roorkee",
+    "group_code": "dn",
+    "edition_code": "rr",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "roorkee"
+  },
+  "saharanpur-city": {
+    "title": "Saharanpur city",
+    "group_code": "mt",
+    "edition_code": "sc",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "saharanpur-city"
+  },
+  "saharanpur-dehat": {
+    "title": "Saharanpur dehat",
+    "group_code": "mt",
+    "edition_code": "st",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "saharanpur-dehat"
+  },
+  "sambhal": {
+    "title": "Sambhal",
+    "group_code": "md",
+    "edition_code": "sa",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "sambhal"
+  },
+  "santkabirnagar": {
+    "title": "Santkabirnagar",
+    "group_code": "gk",
+    "edition_code": "sk",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "santkabirnagar"
+  },
+  "shahjahanpur": {
+    "title": "Shahjahanpur",
+    "group_code": "bl",
+    "edition_code": "sp",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "shahjahanpur"
+  },
+  "shamli-muzaffarnagar-dehat": {
+    "title": "Shamli / muzaffarnagar dehat",
+    "group_code": "mt",
+    "edition_code": "md",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "shamli-muzaffarnagar-dehat"
+  },
+  "shimla": {
+    "title": "Shimla",
+    "group_code": "ds",
+    "edition_code": "sh",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "shimla"
+  },
+  "siddharthnagar": {
+    "title": "Siddharthnagar",
+    "group_code": "gk",
+    "edition_code": "sn",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "siddharthnagar"
+  },
+  "sirmaur": {
+    "title": "Sirmaur",
+    "group_code": "ds",
+    "edition_code": "sm",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "sirmaur"
+  },
+  "sirsa": {
+    "title": "Sirsa",
+    "group_code": "rt",
+    "edition_code": "sr",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "sirsa"
+  },
+  "sitapur": {
+    "title": "Sitapur",
+    "group_code": "lk",
+    "edition_code": "si",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "sitapur"
+  },
+  "solan": {
+    "title": "Solan",
+    "group_code": "ds",
+    "edition_code": "sl",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "solan"
+  },
+  "sonbhadra": {
+    "title": "Sonbhadra",
+    "group_code": "vn",
+    "edition_code": "sb",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "sonbhadra"
+  },
+  "sonipat": {
+    "title": "Sonipat",
+    "group_code": "rt",
+    "edition_code": "so",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "sonipat"
+  },
+  "sultanpur": {
+    "title": "Sultanpur",
+    "group_code": "lk",
+    "edition_code": "su",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "sultanpur"
+  },
+  "udhampur": {
+    "title": "Udhampur",
+    "group_code": "jm",
+    "edition_code": "um",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "udhampur"
+  },
+  "udhamsingh-nagar": {
+    "title": "Udhamsingh nagar",
+    "group_code": "nt",
+    "edition_code": "us",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "udhamsingh-nagar"
+  },
+  "una": {
+    "title": "Una",
+    "group_code": "ds",
+    "edition_code": "un",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "una"
+  },
+  "unnao": {
+    "title": "Unnao",
+    "group_code": "kp",
+    "edition_code": "uo",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "unnao"
+  },
+  "varanasi-city": {
+    "title": "Varanasi",
+    "group_code": "vn",
+    "edition_code": "vc",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": "Y",
+    "slug": "varanasi-city"
+  },
+  "vikas-nagar": {
+    "title": "Vikas nagar",
+    "group_code": "dn",
+    "edition_code": "vk",
+    "day": 0,
+    "is_mycity": null,
+    "is_compact": null,
+    "slug": "vikas-nagar"
+  },
+  "yamuna-nagar": {
+    "title": "Yamuna nagar",
+    "group_code": "hr",
+    "edition_code": "ym",
+    "day": 0,
+    "is_mycity": "Y",
+    "is_compact": null,
+    "slug": "yamuna-nagar"
+  }
+}
