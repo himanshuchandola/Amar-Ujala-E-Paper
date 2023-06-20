@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react';
 import data from '../Data/data.json';
 
-import Paper from '../Paper/Paper'; 
+import Paper from '../Paper/Paper';
 
 const HomePage = () => {
   const [city, setCity] = useState('');
@@ -24,12 +24,7 @@ const HomePage = () => {
 
   return (
     <>
-      <div id="app">
-        <div className="paper">
-          <Paper selectedCity={city} />
-        </div>
-      </div>
-
+      <Paper selectedCity={city} />
     </>
   )
 }

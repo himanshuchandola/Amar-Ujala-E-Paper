@@ -9,7 +9,7 @@ const Paper = () => {
   const [my, setMy] = useState('');
   const [paperTarget, setPaperTarget] = useState('');
   const [options, setOptions] = useState([]);
-  
+
   useEffect(() => {
     const optionArr = [];
     for (let key in data) {
@@ -26,14 +26,17 @@ const Paper = () => {
       loadNews(history, paperNumber);
     }
   }, []);
-  
-  const handleNext = () => {
-    const newPaperNumber = paperNumber - 1;
-    setPaperNumber(newPaperNumber);
-    loadNews(citySelect, newPaperNumber);
-  }
-  
+
   const handlePrev = () => {
+    if (paperNumber > 1) {
+      const newPaperNumber = paperNumber - 1;
+      setPaperNumber(newPaperNumber);
+      loadNews(citySelect, newPaperNumber);
+    }
+  }
+
+
+  const handleNext = () => {
     const newPaperNumber = paperNumber + 1;
     setPaperNumber(newPaperNumber);
     loadNews(citySelect, newPaperNumber);
@@ -43,21 +46,26 @@ const Paper = () => {
     localStorage.setItem('citySelect', city);
     const formattedPage = page < 10 ? `0${page}` : page;
     const currentDate = paperDate.toISOString().split('T')[0].replace(/[-]/g, '/');
-    const url = `https://epaperwmimg.amarujala.com/${currentDate}${my}/${city}/${formattedPage}/hdimage.jpg`;
+    const url = `${process.env.REACT_APP_BASE_URL}/${currentDate}${my}/${city}/${formattedPage}/hdimage.jpg`;
     setPaperTarget(url);
   }
-  
+
   const handleMyCity = () => {
     const newMyValue = my === '' ? '/my' : '';
     setMy(newMyValue);
     setPaperNumber(1);
     loadNews(citySelect, 1);
   }
-  
+
   const handleChange = (value) => {
     setCitySelect(value);
     loadNews(value, paperNumber);
   }
+
+  useEffect(() => {
+    loadNews(citySelect, paperNumber);
+  }, [citySelect, paperNumber, my]);
+
 
   return (
     <>
@@ -66,18 +74,15 @@ const Paper = () => {
           <option key={option.value} value={option.value}>{option.label}</option>
         ))}
       </select>
-      <input id="paperDate" type="date" value={paperDate.toISOString().substring(0,10)} onChange={(e) => setPaperDate(new Date(e.target.value))} />
-
-      <button id="prev" onClick={handlePrev}>Prev</button>
-      <button id="next" onClick={handleNext}>Next</button>
-      <button id="mycity" onClick={handleMyCity}>My City</button>
-      <input id="paperNumber" type="number" value={paperNumber} onChange={(e) => setPaperNumber(e.target.value)} />
-      <img id="paperTarget" src={paperTarget} alt="" />
-      <button id="prev" onClick={handlePrev}>Prev</button>
-      <button id="next" onClick={handleNext}>Next</button>
-      <button id="mycity" onClick={handleMyCity}>My City</button>
-      <input id="paperNumber" type="number" value={paperNumber} onChange={(e) => setPaperNumber(e.target.value)} />
-      <img id="paperTarget" src={paperTarget} alt="" />
+      <input id="paperDate" type="date" value={paperDate.toISOString().substring(0, 10)} onChange={(e) => setPaperDate(new Date(e.target.value))} />
+      <button id="prev" onClick={handlePrev} style={{ marginRight: '10px' }}>Prev</button>
+      <button id="next" onClick={handleNext} style={{ marginRight: '10px' }}>Next</button>
+      <button id="mycity" onClick={handleMyCity} style={{ justifyContent: 'flex-end' }}>
+        {my === '' ? 'Toggle to My City' : 'Toggle to Main Paper'}
+      </button>
+      <div className="paper">
+        <img id="paperTarget" src={paperTarget} alt="" />
+      </div>
     </>
   );
 }
