@@ -1,5 +1,5 @@
 # Amar-Ujala-E-Paper
-[![Netlify Status](https://api.netlify.com/api/v1/badges/c158ab59-4669-446d-bc31-cb9fa3f52112/deploy-status)](https://app.netlify.com/sites/epaper-amar-ujala-hindi-reactjs/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0d9acad7-160f-4d9a-8b61-d01c4ae25f4a/deploy-status)](https://app.netlify.com/sites/epaper-amar-ujala-hindi-reactjs/deploys)
 
 Free version of Amar Ujala Hindi E-Paper with all available cities. This Project is created in React JS
 
