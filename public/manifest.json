@@ -1,0 +1,8 @@
+{
+  "short_name": "E-Paper Amar Ujala",
+  "name": "Digital Amar Ujala Paper",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
