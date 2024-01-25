@@ -1,0 +1,94 @@
+.Header {
+	width: 100%;
+	background-color: var(--gray);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	padding: 0.5rem 1rem;
+	flex-direction: column;
+	gap: 0.5rem;
+}
+
+.Header .top-nav {
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+	display: none; /* hide top on desktop */
+}
+
+.Header .heading {
+	font-size: 1.5rem;
+	color: #ffffff;
+}
+
+.menu-btn {
+	background-color: transparent;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.Header .nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1px;
+	padding: 1px;
+	flex-wrap: wrap;
+}
+
+.nav > * {
+	cursor: pointer;
+}
+
+.nav select {
+	min-height: 38px;
+	padding: 0 10px;
+	font-size: 1rem;
+	outline: none;
+	border: none;
+	background-color: #ffffff;
+	height: 100%;
+}
+
+.nav input[type="date"],
+.nav button {
+	min-height: 38px;
+	font-size: 1rem;
+	border: none;
+	outline: none;
+	padding: 0 10px;
+	background-color: #ffffff;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-width: fit-content;
+}
+
+.nav .buttons {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	gap: 1px;
+}
+
+.ml-0-5 {
+	margin-left: 0.5rem;
+}
+
+@media screen and (max-width: 768px) {
+	.Header {
+		align-items: end;
+	}
+
+	.Header .nav {
+		justify-content: start;
+	}
+
+	.Header .top-nav {
+		display: flex;
+	}
+}
