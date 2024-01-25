@@ -17,8 +17,5 @@ All contributions are welcomed. Here's how you can help:
 
 Before submitting a pull request, please ensure that your code conforms to our coding guidelines and that any tests have been updated or added as necessary.
 
-## Suggestions and Feedback
-
-Your input is extremely valuable to us. If you have ideas for features, notice a bug, or just have a question or comment, please feel free to open an issue on our GitHub. We're excited to hear what you think and to engage with you.
-
-Thank you for your interest in contributing ! We're looking forward to your input.
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
